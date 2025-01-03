@@ -1,0 +1,6 @@
+name: KMiniGamesCore
+version: '1'
+main: ru.k0cteJl.kMiniGamesCore.KMiniGamesCore
+api-version: '1.21'
+authors: [ k0cteJl ]
+description: A framework for quickly creating your own blocks for minecraft
